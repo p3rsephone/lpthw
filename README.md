@@ -1,2 +1,2 @@
 # lpthw
-My Learn Python the Hard Way files
+My Learn Python 3 the Hard Way files
